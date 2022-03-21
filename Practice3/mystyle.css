@@ -1,0 +1,32 @@
+    *   {
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        margin:0;
+        padding:0;
+    }
+    body {
+        font-family: arial;
+    }
+    div.hero{
+        background-image:url(bg-resumen.jpg);
+        height: 100vh;
+        background-position: center center;
+        background-size: cover;
+    }
+    div.header-content{
+        padding-top: 4rem;
+    }
+    nav.social-media{
+        text-align: center;
+    }
+    nav.social-media a{
+        color:white;
+        font-size: 2rem;
+        margin-right: 1rem;
+    }
+    footer{
+        background-color: grey;
+        padding: 10px;
+        color: white;
+        text-align:center;
+    }
